@@ -1,0 +1,19 @@
+{
+  "name": "kaktus",
+  "version": "1.0.0",
+  "description": "Package for kaktuses.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testiramsve/kaktus.git"
+  },
+  "author": "B-loved Overlord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testiramsve/kaktus/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/testiramsve/kaktus#readme",
+  "main": "index.js"
+}
